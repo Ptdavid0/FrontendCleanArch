@@ -43,3 +43,5 @@ Main -> Injeção de dependências
 - I of SOLID -> Interface Segregation Principle (ISP) -> Princípio da Segregação de Interfaces. Uma classe não deve ser forçada a implementar interfaces e métodos que não irá utilizar.
 
 - Injeção de Dependências -> Técnica para desacoplar as classes.
+
+- sut -> System Under Test -> Classe que está sendo testada.
